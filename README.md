@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @charlesxu27
+- 👋 Hi, I’m @charlesxu27, OSU 2023
 - 👀 I’m interested in creating and contributing to projects!
 - 🌱 I’m currently learning web development (full stack) and DS & A.
 

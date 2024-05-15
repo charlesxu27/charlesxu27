@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @charlesxu27, a CS student at Oregon State University!
+- 👋 Hi, I’m @charlesxu27, a software engineer.
 - 👀 I’m interested in creating and contributing to projects.
 - 🌱 I'm currently building full-stack web applications.
 
